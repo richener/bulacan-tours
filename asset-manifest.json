@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bulacan-tours/static/css/main.168f6452.css",
+    "main.js": "/bulacan-tours/static/js/main.0fd5b803.js",
+    "static/js/453.a03cbf2f.chunk.js": "/bulacan-tours/static/js/453.a03cbf2f.chunk.js",
+    "static/media/malolosCathedral.jpg": "/bulacan-tours/static/media/malolosCathedral.51e28f1b31dd861822af.jpg",
+    "static/media/bitbitRiver.jpg": "/bulacan-tours/static/media/bitbitRiver.6e1bfba13e4847cb4c85.jpg",
+    "static/media/mtManalmon.jpg": "/bulacan-tours/static/media/mtManalmon.3de4671bc44e160a073d.jpg",
+    "static/media/barasoain.jpg": "/bulacan-tours/static/media/barasoain.1491cabfa79e8ba3ff59.jpg",
+    "static/media/cuidad.jpg": "/bulacan-tours/static/media/cuidad.a4e66d654c429bcc21f1.jpg",
+    "static/media/IpoDam.jpg": "/bulacan-tours/static/media/IpoDam.01b69c16f66ce5fb148e.jpg",
+    "static/media/about.jpeg": "/bulacan-tours/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/main.jpeg": "/bulacan-tours/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/pinagrealanCave.jpg": "/bulacan-tours/static/media/pinagrealanCave.467145099b3e40fa20a3.jpg",
+    "static/media/biak.jpg": "/bulacan-tours/static/media/biak.b13258021e88bfda48f6.jpg",
+    "static/media/puningCave.jpg": "/bulacan-tours/static/media/puningCave.72d18c011882b8ea42b0.jpg",
+    "index.html": "/bulacan-tours/index.html",
+    "main.168f6452.css.map": "/bulacan-tours/static/css/main.168f6452.css.map",
+    "main.0fd5b803.js.map": "/bulacan-tours/static/js/main.0fd5b803.js.map",
+    "453.a03cbf2f.chunk.js.map": "/bulacan-tours/static/js/453.a03cbf2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168f6452.css",
+    "static/js/main.0fd5b803.js"
+  ]
+}
